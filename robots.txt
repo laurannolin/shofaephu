@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://iewaekoex.convictfilms.com/sitemap.xml
